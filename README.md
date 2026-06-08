@@ -1,54 +1,92 @@
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                    BALA MURUGAN P — README                   -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
 <div align="center">
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Bala%20Murugan%20P&fontSize=70&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=62&descSize=18&animation=twinkling&stroke=A78BFA&strokeWidth=2" />
+<!-- 3D CYBERPUNK HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:03001C,30:0B0C10,60:1B1A55,100:535C91&height=280&section=header&text=BALA%20MURUGAN%20P&fontSize=72&fontColor=00FFD1&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=65&descSize=17&animation=blinking&stroke=00FFD1&strokeWidth=3" />
+
+<!-- NEON DIVIDER -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!-- ANIMATED AVATAR / 3D CODING GIF -->
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="3D Coding Animation"/>
+<br/>
+
+<!-- PROFILE VIEWS + SOCIAL BADGES -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=BalaMurugan-2005&label=PROFILE+VIEWS&color=00FFD1&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/balamurugan-p-71a566320/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/BalaMurugan-2005">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:pbalamurugan260@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:9677540588">
+    <img src="https://img.shields.io/badge/Phone-9677540588-00FFD1?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
+</p>
+
+<!-- AVAILABILITY BADGE -->
+<img src="https://img.shields.io/badge/🟢_OPEN_TO-Internships_%26_Collaborations-00FFD1?style=for-the-badge&labelColor=0B0C10" />
 
 </div>
 
 ---
 
+<!-- ══════════════════════════════════════════ -->
+<!--               ABOUT ME                    -->
+<!-- ══════════════════════════════════════════ -->
+
 <div align="center">
-
-## 🌌 `whoami`
-
+<h2>⚡ <code>cat about_me.json</code> ⚡</h2>
 </div>
 
 <table>
 <tr>
-<td width="55%">
+<td width="58%" valign="top">
 
-```typescript
-const bala = {
-  name     : "Bala Murugan P",
-  role     : "Full Stack Developer & AI Builder",
-  location : "Coimbatore, India 🇮🇳",
-  college  : "KG College of Arts & Science",
-  degree   : "B.Sc Computer Technology",
-  year     : "Final Year → May 2027",
+```json
+{
+  "name"     : "Bala Murugan P",
+  "role"     : "Full Stack Developer & AI Builder",
+  "location" : "Coimbatore, India 641006 🇮🇳",
+  "phone"    : "9677540588",
+  "email"    : "pbalamurugan260@gmail.com",
+  "college"  : "KG College of Arts & Science",
+  "degree"   : "B.Sc Computer Technology",
+  "grad"     : "May 2027",
+  "cgpa"     : "8.05 / 10",
 
-  focusAreas: [
-    "🏗️  Microservices Architecture",
-    "🤖  RAG & LLM Systems",
-    "⚛️   React + Django + Spring Boot",
-    "📊  ML / AI Engineering",
-  ],
+  "languages": {
+    "Tamil"  : "Native 🌟",
+    "English": "B1 Intermediate"
+  },
 
-  currentlyBuilding : "KGCAS GPT (Campus AI)",
-  openTo            : "Internships & Collabs 🤝",
-  superpower        : "Full-stack app in hours ⚡",
-};
+  "currently_building" : "KGCAS GPT (Campus AI — RAG)",
+  "open_to"            : ["Internships", "Freelance", "Collabs"],
+  "superpower"         : "Full-stack app from 0 → deploy in hours ⚡"
+}
 ```
 
 </td>
-<td width="45%" align="center">
+<td width="42%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" />
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balamurugan-p-71a566320/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BalaMurugan-2005)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pbalamurugan260@gmail.com)
+> *"Motivated fresher with strong foundation*
+> *in computer skills and problem-solving.*
+> *Looking to grow and contribute."*
 
 </td>
 </tr>
@@ -56,76 +94,74 @@ const bala = {
 
 ---
 
-<div align="center">
-
-## 🚀 Developer Journey
-
-</div>
+<!-- ══════════════════════════════════════════ -->
+<!--            TECH ICONS (skillicons)         -->
+<!-- ══════════════════════════════════════════ -->
 
 <div align="center">
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  2023          2024 (Q1)        2024 (Q3)        2025           NOW
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   🎓              💳               🏪               🤖             🔥
-Started         PyUPI           POS System       KGCAS GPT     Placement
-B.Sc CT       Django+JWT      Microservices     RAG+Ollama       Ready
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+## 🛠️ Tech Stack
 
-</div>
+**Frontend & Styling**
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" height="50" />
 
-<div align="center">
+**Backend & Frameworks**
 
-## 🛠️ Tech Arsenal
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,spring&theme=dark" height="50" />
 
-</div>
+**AI / ML**
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" height="50" />
+&nbsp;
+<img src="https://img.shields.io/badge/Ollama_LLM-000000?style=flat-square&logo=ollama&logoColor=00FFD1" height="28"/>
+<img src="https://img.shields.io/badge/RAG_System-7C3AED?style=flat-square&logo=openai&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/BAAI_Embeddings-0078D4?style=flat-square&logoColor=white" height="28"/>
 
-**⚡ Frontend**
+**Databases**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite,mysql&theme=dark" height="50" />
+&nbsp;
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" height="28"/>
 
-**🔧 Backend**
+**Languages & Tools**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-**🤖 AI / ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama_LLM-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Architecture-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
-![Embeddings](https://img.shields.io/badge/BAAI_Embeddings-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
-
-**🗄️ Databases & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode,linux&theme=dark" height="50" />
 
 </div>
 
 ---
 
+<!-- ══════════════════════════════════════════ -->
+<!--          EXPERIENCE TIMELINE              -->
+<!-- ══════════════════════════════════════════ -->
+
 <div align="center">
 
-## 🏗️ Featured Projects
+## 💼 Experience
+
+</div>
+
+### 🎓 Student Web Developer — KG College of Arts & Science
+`📅 July 2024 — Present` &nbsp;|&nbsp; `📍 Coimbatore, India`
+
+```
+✔  Applied and strengthened technical skills through coursework and hands-on projects
+✔  Participated in multiple hackathons — collaborated in teams to design innovative solutions
+✔  Managed time efficiently to meet deadlines and prioritize tasks
+✔  Worked effectively in team activities and group projects
+```
+
+---
+
+<!-- ══════════════════════════════════════════ -->
+<!--             FEATURED PROJECTS             -->
+<!-- ══════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🚀 Featured Projects
 
 </div>
 
@@ -134,81 +170,117 @@ B.Sc CT       Django+JWT      Microservices     RAG+Ollama       Ready
 <td width="50%" valign="top">
 
 ### 🤖 KGCAS GPT
-> **Campus AI Assistant — RAG Architecture**
+**Campus AI Assistant — RAG Architecture**
 
-```
-Stack  : React 18 · FastAPI · Ollama/Qwen3
-        BAAI Embeddings · SQLite Vector Store
-Type   : Locally-private · Zero cloud dependency
-Status : ✅ Production deployed on campus
+```yaml
+Tech   : React 18, FastAPI, Ollama/Qwen3
+         BAAI Embeddings, SQLite Vector Store
+Type   : Locally-private LLM system
+Status : ✅ Production deployed
 ```
 
-🔑 **Key features:**
 - Semantic search over campus documents
-- Fully offline LLM (Qwen3 via Ollama)
+- Fully offline — zero cloud dependency
 - Sub-second retrieval with vector embeddings
 
-`🔒 Private`
+`🔒 Private Repo`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏪 POS Billing System
-> **Enterprise Microservices Architecture**
+**Full Stack Microservices Architecture**
 
-```
-Stack  : React.js · Spring Boot · Django
-        PostgreSQL · TailwindCSS · JWT
-Type   : Full microservices from scratch
+```yaml
+Tech   : React.js, Spring Boot, Django
+         PostgreSQL, TailwindCSS, JWT
+Type   : Enterprise microservices
 Status : ✅ Feature complete
 ```
 
-🔑 **Key features:**
 - Separate billing, analytics & auth services
 - JWT-secured Spring Boot REST APIs
 - Django analytics + reporting module
 
-`🔒 Private`
+`🔒 Private Repo`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💳 PyUPI — Digital Payments
-> **UPI-Style Payment Platform**
+### 💳 PyUPI — Digital Payment App
+**UPI-Style Full Stack Platform**
 
-```
-Stack  : Django · REST Framework · JWT · JS
+```yaml
+Tech   : Django, REST Framework
+         JWT Authentication, JavaScript
 Type   : Full-stack payment system
 Status : ✅ Open source
 ```
 
-🔑 **Key features:**
-- Send & receive money flows
-- Admin transaction monitoring APIs
+- Send & receive digital payments
 - Secure JWT authentication
+- Admin APIs for transaction monitoring
+- REST APIs with Django REST Framework
 
-[![View Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/BalaMurugan-2005/PyUPI)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaMurugan-2005/PyUPI)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Price Prediction AI
-> **ML-Powered Market Forecasting**
+### 📊 Student Grade Management System
+**Full Stack Grade Analytics Dashboard**
 
+```yaml
+Tech   : HTML, CSS, JavaScript
+         Node.js, Express.js
+Type   : Full-stack web app
+Status : ✅ Open source
 ```
-Stack  : Python · XGBoost · Scikit-learn
+
+- Full-stack grade management with backend API
+- REST APIs using Express.js for student records
+- JSON-based data storage
+- Responsive frontend interface
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaMurugan-2005/SGA)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="center">
+
+### 🤖 Product Price Prediction AI
+**ML-Powered Market Forecasting Model**
+
+```yaml
+Tech   : Python, Machine Learning, XGBoost
 Type   : Supervised ML model
 Status : ✅ Open source
 ```
 
-🔑 **Key features:**
-- Trained on real historical market data
-- XGBoost with hyperparameter tuning
-- Model evaluation & performance benchmarks
+- ML model trained on real historical market datasets
+- XGBoost algorithm with hyperparameter tuning
+- Compared prediction results with AI outputs
 
-[![View Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/BalaMurugan-2005/Price_Pridiction)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaMurugan-2005/Price_Pridiction)
+
+</td>
+<td width="50%" valign="center">
+
+### 📈 More Coming Soon...
+
+```yaml
+Status : 🔨 In Progress
+Focus  : Cloud Architecture
+         Spring Boot Advanced
+         AI/ML Systems
+```
+
+> *"Every day is a new deploy."*
+
+[![Follow](https://img.shields.io/badge/Follow_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaMurugan-2005)
 
 </td>
 </tr>
@@ -216,32 +288,38 @@ Status : ✅ Open source
 
 ---
 
+<!-- ══════════════════════════════════════════ -->
+<!--              GITHUB STATS                 -->
+<!-- ══════════════════════════════════════════ -->
+
 <div align="center">
 
 ## 📊 GitHub Stats
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BalaMurugan-2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalaMurugan-2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BalaMurugan-2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FFD1&icon_color=00FFD1" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalaMurugan-2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD1" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BalaMurugan-2005&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://streak-stats.demolab.com?user=BalaMurugan-2005&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8&background=0d1117&ring=00FFD1&fire=FF6B35&currStreakLabel=00FFD1" height="165" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BalaMurugan-2005&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BalaMurugan-2005&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00FFD1&line=7C3AED&point=00FFD1" />
 
 </div>
 
 ---
 
+<!-- ══════════════════════════════════════════ -->
+<!--            ACHIEVEMENTS                   -->
+<!-- ══════════════════════════════════════════ -->
+
 <div align="center">
 
-## 🏆 Achievements
-
-<br/>
+## 🏆 Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=BalaMurugan-2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 
@@ -249,47 +327,102 @@ Status : ✅ Open source
 
 ---
 
-<div align="center">
-
-## 📜 Certifications
-
-</div>
+<!-- ══════════════════════════════════════════ -->
+<!--          EDUCATION & CERTIFICATIONS       -->
+<!-- ══════════════════════════════════════════ -->
 
 <div align="center">
 
-| 🎓 Course | 🏫 Platform | 🔗 |
-|:---:|:---:|:---:|
-| 🐍 Python for Everybody | Coursera | [![View](https://img.shields.io/badge/Certificate-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://bit.ly/4a17ddZ) |
-| 🌿 Introduction to Git & GitHub | Coursera | [![View](https://img.shields.io/badge/Certificate-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://bit.ly/4pT2HTg) |
-| ⚛️ Build Your First React Website | Coursera | [![View](https://img.shields.io/badge/Certificate-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://bit.ly/3XBHlIK) |
+## 🎓 Education & Certifications
 
 </div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 Education
+
+| Field | Detail |
+|---|---|
+| 🏛️ College | KG College of Arts & Science |
+| 📍 Location | Coimbatore, Tamil Nadu, India |
+| 📘 Degree | B.Sc Computer Technology |
+| 📅 Expected | May 2027 |
+| 🌐 Languages | Tamil (Native) · English (B1) |
+
+</td>
+<td width="50%" valign="top">
+
+### 📜 Coursera Certifications
+
+| 🎓 Course | 🔗 |
+|---|---|
+| 🐍 Python for Everybody | [![View](https://img.shields.io/badge/View-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://bit.ly/4a17ddZ) |
+| 🌿 Git and GitHub | [![View](https://img.shields.io/badge/View-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://bit.ly/4pT2HTg) |
+| ⚛️ First React Website | [![View](https://img.shields.io/badge/View-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://bit.ly/3XBHlIK) |
+
+</td>
+</tr>
+</table>
 
 ---
 
+<!-- ══════════════════════════════════════════ -->
+<!--            PACMAN CONTRIBUTION            -->
+<!-- ══════════════════════════════════════════ -->
+
 <div align="center">
 
-## 🐍 Contribution Snake
+## 👾 Pac-Man eats my contributions!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=twinkling" />
+<!-- ══════════════════════════════════════════ -->
+<!--            QUICK FACTS                    -->
+<!-- ══════════════════════════════════════════ -->
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+## ⚡ Quick Facts
+
+</div>
+
+```yaml
+🎯 Goal         : Land Full Stack / Backend Developer Internship
+📍 Location     : Coimbatore, India 641006
+📞 Phone        : 9677540588
+📧 Email        : pbalamurugan260@gmail.com
+🏆 Hackathons   : Multiple participations — competed & learned!
+🎓 CGPA         : 8.05 / 10
+🤖 Highlight    : Built a RAG-based AI campus assistant as final year student
+🔥 Fun Fact     : I architected microservices as a fresher!
+💡 Superpower   : Zero-to-deploy full-stack in hours ⚡
+```
+
+---
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,50:1B1A55,100:535C91&height=130&section=footer&animation=twinkling" />
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
 
 <br/>
 
 **⭐ Star my repos if you find them useful! ⭐**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=BalaMurugan-2005&label=TOTAL+PROFILE+VIEWS&color=00FFD1&style=for-the-badge" />
 
 </div>
