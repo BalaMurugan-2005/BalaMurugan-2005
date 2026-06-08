@@ -1,18 +1,15 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,70:6d28d9,100:7c3aed&height=220&section=header&text=Bala%20Murugan%20P&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20Microservices%20Architect&descAlignY=60&descSize=17&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=🚀+Full+Stack+Dev+%7C+React+%2B+Django+%2B+Spring+Boot;🤖+ML+Engineer+%7C+XGBoost+%7C+Price+Prediction;🏗️+Microservices+Architect+%7C+REST+API+Builder;💳+Built+UPI+Payment+System+from+scratch;🏪+POS+Billing+System+with+Microservices;🎓+B.Sc+Computer+Technology+%40+KG+College)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=750&lines=🚀+Full+Stack+Dev+%7C+React+%2B+Django+%2B+Spring+Boot;🤖+ML+Engineer+%7C+XGBoost+%7C+Price+Prediction;🏗️+Microservices+Architect+%7C+REST+API+Builder;💳+Built+UPI+Payment+System+from+scratch;🧠+College+GPT+%E2%80%94+Local+RAG+AI+Campus+Assistant;🎓+B.Sc+Computer+Technology+%40+KG+College+%7C+CGPA+8.05)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Badges Row -->
 <a href="https://www.linkedin.com/in/balamurugan-p-71a566320/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
 </a>
@@ -28,7 +25,6 @@
 
 ---
 
-<!-- About Me -->
 <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ## 🧑‍💻 Who Am I?
@@ -37,12 +33,15 @@
 Name        : Bala Murugan P
 Role        : Full Stack Developer & ML Engineer
 Location    : Coimbatore, India 🇮🇳
-Education   : B.Sc Computer Technology, KG College (2024–2026)
+Education   : B.Sc Computer Technology
+              KG College of Arts & Science (2024–2027)
+              CGPA: 8.05
 Contact     : pbalamurugan260@gmail.com
 Phone       : +91 9677540588
 
 Currently   :
   - 🏗️  Building enterprise POS Billing (Microservices)
+  - 🧠  Built College GPT — Local RAG AI Campus Assistant
   - 📚  Mastering Spring Boot & Cloud Architecture
   - 🤝  Open to Internships & Collaborations
 
@@ -51,6 +50,7 @@ Superpowers :
   - 🔐  JWT-secured REST API systems
   - 🤖  ML models with hyperparameter tuning
   - 🏛️  Microservices from day one as a fresher!
+  - 🧠  Local RAG + LLM systems (no API keys needed)
 ```
 
 <br clear="right"/>
@@ -74,16 +74,20 @@ Superpowers :
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🧠 AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6C26?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/ML-Hyperparameter_Tuning-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black?style=for-the-badge&logo=ollama&logoColor=white)
 
 ### 🔧 DevOps & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -103,7 +107,8 @@ Superpowers :
 
 | 🏷️ Project | 💡 Description | 🔧 Stack | 🔗 |
 |:---:|:---|:---:|:---:|
-| 📊 **Student Grade Management System** | Full-stack system with REST APIs, JSON storage & responsive UI | `Node.js` `Express` `HTML/CSS/JS` | [![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/BalaMurugan-2005/SGA) |
+| 🧠 **College GPT** | Local RAG-based AI campus assistant — runs 100% offline, no API keys, self-correcting feedback loop | `FastAPI` `React` `Ollama` `SQLite` `RAG` | `🔒 Private` |
+| 📊 **Student Grade Management** | Full-stack system with REST APIs, JSON storage & responsive UI | `Node.js` `Express` `HTML/CSS/JS` | [![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/BalaMurugan-2005/SGA) |
 | 💳 **PyUPI – Digital Payment App** | UPI-like payment system with JWT auth, send/receive money & admin monitoring | `Django` `DRF` `JWT` `JS` | [![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/BalaMurugan-2005/PyUPI) |
 | 🏪 **POS Billing System** | Enterprise-grade billing with microservices, analytics & reporting | `React` `Spring Boot` `Django` `PostgreSQL` | `🔒 Private` |
 | 🤖 **Product Price Prediction AI** | ML model trained on real market data with XGBoost & hyperparameter tuning | `Python` `XGBoost` `Sklearn` | [![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/BalaMurugan-2005/Price_Pridiction) |
@@ -113,6 +118,27 @@ Superpowers :
 ---
 
 ## 🔬 Project Deep Dives
+
+<details>
+<summary><b>🧠 College GPT — Local RAG AI Campus Assistant</b></summary>
+
+<br/>
+
+> 🏫 A fully offline, privacy-first RAG-based AI assistant for college information — no cloud, no API keys, runs on consumer hardware
+
+| Feature | Status |
+|---|---|
+| 100% local deployment (Ollama + Qwen3:8B LLM) | ✅ Implemented |
+| Custom SQLite vector store with NumPy in-memory cache | ✅ Implemented |
+| Semantic chunking with Q&A extraction & alias enrichment | ✅ Implemented |
+| Self-correcting feedback loop (wrong answer → auto-fix) | ✅ Implemented |
+| SSE streaming responses via FastAPI | ✅ Implemented |
+| PyMuPDF + Tesseract-OCR fallback for scanned PDFs | ✅ Implemented |
+| Multi-query decomposition & keyword boosting | ✅ Implemented |
+
+**Key Achievement:** Built a production-grade RAG system from scratch — custom vector DB, ingestion pipeline, feedback loop, and LLM integration — as a college student. Zero cloud dependency.
+
+</details>
 
 <details>
 <summary><b>💳 PyUPI – Digital Payment Application</b></summary>
@@ -127,8 +153,6 @@ Superpowers :
 | Send & receive digital payments | ✅ Implemented |
 | Admin APIs for user & transaction monitoring | ✅ Implemented |
 | Django REST Framework endpoints | ✅ Implemented |
-
-**Key Learning:** Implemented real-world financial transaction flow with proper security using JWT tokens and REST standards.
 
 </details>
 
@@ -146,7 +170,7 @@ Superpowers :
 | Analytics Service | Django | Reporting & business insights |
 | Database | PostgreSQL | Persistent data layer |
 
-**Key Achievement:** Designed and built a distributed microservices system from scratch — rare for a fresher!
+**Key Achievement:** Designed and built a distributed microservices system from scratch — rare for a college student!
 
 </details>
 
@@ -155,7 +179,7 @@ Superpowers :
 
 <br/>
 
-> 🎓 Full-stack grade management system built during college as a student web developer
+> 🎓 Full-stack grade management system built during college
 
 - ✅ REST APIs built with Express.js
 - ✅ JSON-based data storage system
@@ -175,8 +199,6 @@ Superpowers :
 - ✅ XGBoost algorithm — industry-grade gradient boosting
 - ✅ Hyperparameter tuning for optimal performance
 - ✅ Model evaluation with AI-generated output comparison
-
-**Key Metric:** Achieved improved prediction accuracy through systematic hyperparameter optimization.
 
 </details>
 
@@ -215,7 +237,7 @@ Superpowers :
 
 | 🎓 Certification | 🏛️ Platform | 📅 Year | 🔗 |
 |---|---|---|---|
-| 🐍 Python for Everybody | Coursera | Aug–Sep 2025 | [![View](https://img.shields.io/badge/Certificate-0056D2?style=flat-square&logo=coursera)](https://bit.ly/4a17ddZ) |
+| 🐍 Python for Everybody | Coursera | 2025 | [![View](https://img.shields.io/badge/Certificate-0056D2?style=flat-square&logo=coursera)](https://bit.ly/4a17ddZ) |
 | 🌿 Introduction to Git and GitHub | Coursera | 2025 | [![View](https://img.shields.io/badge/Certificate-0056D2?style=flat-square&logo=coursera)](https://bit.ly/4pT2HTg) |
 | ⚛️ Build Your First React Website | Coursera | 2025 | [![View](https://img.shields.io/badge/Certificate-0056D2?style=flat-square&logo=coursera)](https://bit.ly/3XBHlIK) |
 
@@ -227,36 +249,36 @@ Superpowers :
 
 ```yaml
 🎯 Goal          : Full Stack / Backend Developer Internship
-🏆 Hackathons    : Multiple participations — won & learned from each
-🌐 Languages     : Tamil (Native) | English (Intermediate B1)
+🏆 Hackathons    : Multiple participations — built & shipped at every one
+🌐 Languages     : Tamil (Native) | English (B1 Intermediate)
 🎓 College       : KG College of Arts & Science, Coimbatore
-📅 Graduating    : 2026
+📅 Graduating    : 2027
+🏅 CGPA          : 8.05
 📞 Phone         : +91 9677540588
-💡 Superpower    : Building full-stack + ML apps from scratch fast!
-🔥 Differentiator: Microservices architecture as a college fresher
+💡 Superpower    : Building full-stack + AI apps from scratch, fast
+🔥 Differentiator: RAG AI system + Microservices as a college student
 📬 Email         : pbalamurugan260@gmail.com
 ```
 
 ---
 
-## 🤝 Let's Collaborate!
+## 🤝 Let's Connect!
 
 <div align="center">
 
-> 💼 **Open to:** Full Stack Internships · Backend Roles · ML Projects · Open Source
+> 💼 **Open to:** Full Stack Internships · Backend Roles · AI/ML Projects · Open Source
 >
-> 📬 **Reach me at:** [pbalamurugan260@gmail.com](mailto:pbalamurugan260@gmail.com) · [+91 9677540588](tel:+919677540588)
+> 📬 **Reach me:** [pbalamurugan260@gmail.com](mailto:pbalamurugan260@gmail.com) · [+91 9677540588](tel:+919677540588)
 >
-> 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/balamurugan-p-71a566320/) · [GitHub](https://github.com/BalaMurugan-2005)
+> 🔗 **Find me:** [LinkedIn](https://www.linkedin.com/in/balamurugan-p-71a566320/) · [GitHub](https://github.com/BalaMurugan-2005)
 
 </div>
 
 ---
 
-<!-- Snake animation -->
 <div align="center">
 
-### 🐍 My Contribution Snake
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -268,7 +290,6 @@ Superpowers :
 
 ---
 
-<!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" />
 
 <div align="center">
@@ -277,6 +298,6 @@ Superpowers :
 
 <br/>
 
-**If you find my work useful, drop a ⭐ on my repos — it means the world! 🙏**
+**Drop a ⭐ on anything useful — it genuinely means a lot! 🙏**
 
 </div>
