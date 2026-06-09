@@ -100,51 +100,19 @@ me.say_hi()
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
+
 <div align="center">
-🏷️ Project🔧 Tech Stack🔗 Link🤖 KGCAS GPT — RAG AI Campus AssistantReact · FastAPI · Ollama/Qwen3 · SQLite · BAAI Embeddings🔒 Private💳 PyUPI – Digital Payment AppDjango · REST Framework · JWT · JSShow Image📊 Student Grade Management SystemHTML · CSS · JS · Node.js · Express.jsShow Image🏪 POS Billing System (Microservices)React · Spring Boot · Django · PostgreSQL · Tailwind🔒 Private🤖 Product Price Prediction AIPython · XGBoost · MLShow Image
+
+| 🏷️ Project | 🔧 Tech Stack | 🔗 Link |
+|---|---|---|
+| 🤖 **KGCAS GPT** — RAG AI Campus Assistant | React · FastAPI · Ollama/Qwen3 · SQLite · BAAI Embeddings | 🔒 Private |
+| 💳 **PyUPI** – Digital Payment App | Django · REST Framework · JWT · JS | [View](https://github.com/BalaMurugan-2005) |
+| 📊 **Student Grade Management System** | HTML · CSS · JS · Node.js · Express.js | [View](https://github.com/BalaMurugan-2005) |
+| 🏪 **POS Billing System** (Microservices) | React · Spring Boot · Django · PostgreSQL · Tailwind | 🔒 Private |
+| 🤖 **Product Price Prediction AI** | Python · XGBoost · ML | [View](https://github.com/BalaMurugan-2005) |
+
 </div>
-<details>
-<summary><b>🤖 KGCAS GPT — RAG AI Campus Assistant</b></summary>
-<br>
-
-A locally-private RAG-based AI campus assistant built for KG College
-
-
-✅ Custom SQLite vector store with NumPy caching
-✅ QueryPreprocessor — typo correction, abbreviation expansion, multi-query decomposition
-✅ SSE streaming with /no_think directive for low-latency responses
-✅ Feedback & self-correction loop
-✅ Stack: React + FastAPI + Ollama/Qwen3 + BAAI Embeddings
-
-</details>
-<details>
-<summary><b>💳 PyUPI – Digital Payment Application</b></summary>
-<br>
-
-A UPI-like payment system built with Django & REST APIs
-
-
-✅ Secure JWT-based user authentication
-✅ Send & receive digital payments
-✅ Admin APIs for monitoring transactions
-✅ Django REST Framework for all endpoints
-
-</details>
-<details>
-<summary><b>🏪 POS Billing System (Microservices)</b></summary>
-<br>
-
-Enterprise-grade Point of Sale system with microservices architecture
-
-
-✅ React.js frontend for billing & product management
-✅ Spring Boot REST APIs with JWT security
-✅ Django backend for analytics & reporting
-✅ PostgreSQL for persistent data storage
-
-</details>
-
 ---
 
 ## 📊 GitHub Stats
