@@ -3,10 +3,22 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bala%20Murugan%20P&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Animated Typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=🚀+Full+Stack+Developer+(React+%2B+Django+%2B+Node.js);🤖+Machine+Learning+%26+AI+Builder;🏗️+Microservices+%26+REST+API+Architect;💡+Hackathon+Warrior+%26+Open+Source+Lover;🎓+B.Sc+Computer+Technology+%40+KG+College" alt="Typing SVG" />
-</a>
+<br/>
+
+<!-- Animated Cat Welcome -->
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
+<br/>
+
+<!-- AI Chatbot Style Welcome Message -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=2000&color=39D353&center=true&vCenter=true&width=700&height=45&lines=🤖+AI+%3E+Hello%2C+visitor!+Initializing+profile...;🤖+AI+%3E+Loading+Bala+Murugan's+data...+✅+Done!;🤖+AI+%3E+Status%3A+Open+to+Internships+%26+Collaborations+🤝;🤖+AI+%3E+Warning%3A+This+dev+ships+fast.+Proceed+with+awe+😎" alt="AI Welcome" />
+
+<br/><br/>
+
+<!-- Main Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=🚀+Full+Stack+Developer+(React+%2B+FastAPI+%2B+Node.js);🤖+Building+KGCAS+GPT+—+RAG+%2B+Ollama+%2B+Qwen3;🏗️+Microservices+%26+REST+API+Architect;💡+ML+%26+AI+Builder+—+XGBoost+%2B+Embeddings;🎓+B.Sc+Computer+Technology+%40+KG+College" alt="Typing SVG" />
 
 <br/>
 
@@ -29,7 +41,7 @@
 ---
 
 <!-- About Me Section -->
-<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" alt="Coding GIF" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ### 👨‍💻 About Me
 
@@ -41,19 +53,20 @@ class BalaMurugan:
         self.education  = "B.Sc Computer Technology @ KG College"
         self.graduating = "May 2027"
         self.email      = "pbalamurugan260@gmail.com"
-        
+
     @property
     def passion(self):
         return ["Full Stack Dev", "ML/AI", "Open Source"]
-    
-    @property  
+
+    @property
     def currently(self):
         return {
-            "building"  : "POS Billing System (Microservices)",
+            "building"  : "KGCAS GPT — RAG AI Campus Assistant",
+            "stack"     : "React + FastAPI + Ollama/Qwen3 + SQLite",
             "learning"  : "Spring Boot + Cloud Architecture",
             "open_to"   : "Internships & Collaborations 🤝"
         }
-    
+
     def say_hi(self):
         print("Thanks for visiting! Let's build something amazing 🚀")
 
@@ -65,7 +78,6 @@ me.say_hi()
 
 ---
 
-<!-- Tech Stack -->
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -80,26 +92,26 @@ me.say_hi()
 
 **Backend**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-**Database**
+**AI / ML**
 
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Database & Tools**
+
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**Languages & Tools**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML-XGBoost-orange?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 </div>
 
@@ -111,14 +123,26 @@ me.say_hi()
 
 | 🏷️ Project | 🔧 Tech Stack | 🔗 Link |
 |---|---|---|
+| 🤖 **KGCAS GPT** — RAG AI Campus Assistant | React · FastAPI · Ollama/Qwen3 · SQLite · BAAI Embeddings | `🔒 Private` |
+| 💳 **PyUPI** – Digital Payment App | Django · REST Framework · JWT · JS | [![GitHub](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/BalaMurugan-2005/PyUPI) |
 | 📊 **Student Grade Management System** | HTML · CSS · JS · Node.js · Express.js | [![GitHub](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/BalaMurugan-2005/SGA) |
-| 💳 **PyUPI – Digital Payment App** | Django · REST Framework · JWT · JS | [![GitHub](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/BalaMurugan-2005/PyUPI) |
-| 🏪 **POS Billing System (Microservices)** | React.js · Spring Boot · Django · PostgreSQL · TailwindCSS | `🔒 Private` |
-| 🤖 **Product Price Prediction AI** | Python · Machine Learning · XGBoost | [![GitHub](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/BalaMurugan-2005/Price_Pridiction) |
+| 🏪 **POS Billing System** (Microservices) | React · Spring Boot · Django · PostgreSQL · Tailwind | `🔒 Private` |
+| 🤖 **Product Price Prediction AI** | Python · XGBoost · ML | [![GitHub](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/BalaMurugan-2005/Price_Pridiction) |
 
 </div>
 
-### 🔬 Project Highlights
+<details>
+<summary><b>🤖 KGCAS GPT — RAG AI Campus Assistant</b></summary>
+<br>
+
+> A locally-private RAG-based AI campus assistant built for KG College
+- ✅ Custom SQLite vector store with NumPy caching
+- ✅ QueryPreprocessor — typo correction, abbreviation expansion, multi-query decomposition
+- ✅ SSE streaming with `/no_think` directive for low-latency responses
+- ✅ Feedback & self-correction loop
+- ✅ Stack: React + FastAPI + Ollama/Qwen3 + BAAI Embeddings
+
+</details>
 
 <details>
 <summary><b>💳 PyUPI – Digital Payment Application</b></summary>
@@ -133,7 +157,7 @@ me.say_hi()
 </details>
 
 <details>
-<summary><b>🏪 POS Billing System (Full Stack Microservices)</b></summary>
+<summary><b>🏪 POS Billing System (Microservices)</b></summary>
 <br>
 
 > Enterprise-grade Point of Sale system with microservices architecture
@@ -141,18 +165,6 @@ me.say_hi()
 - ✅ Spring Boot REST APIs with JWT security
 - ✅ Django backend for analytics & reporting
 - ✅ PostgreSQL for persistent data storage
-
-</details>
-
-<details>
-<summary><b>🤖 Product Price Prediction AI Model</b></summary>
-<br>
-
-> Machine learning model to predict product market prices
-- ✅ Trained on real historical market datasets
-- ✅ XGBoost algorithm for high accuracy
-- ✅ Hyperparameter tuning & model evaluation
-- ✅ AI-generated output comparison for performance
 
 </details>
 
@@ -169,7 +181,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BalaMurugan-2005&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://streak-stats.demolab.com?user=BalaMurugan-2005&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
@@ -181,7 +193,7 @@ me.say_hi()
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Trophies
 
 <div align="center">
 
@@ -189,9 +201,11 @@ me.say_hi()
 
 </div>
 
-<br/>
+---
 
-**📜 Coursera Certifications**
+## 📜 Certifications
+
+<div align="center">
 
 | 🎓 Course | 🔗 Certificate |
 |---|---|
@@ -199,32 +213,36 @@ me.say_hi()
 | 🌿 Introduction to Git and GitHub | [![View](https://img.shields.io/badge/View-Certificate-0056D2?style=flat-square&logo=coursera)](https://bit.ly/4pT2HTg) |
 | ⚛️ Build Your First React Website | [![View](https://img.shields.io/badge/View-Certificate-0056D2?style=flat-square&logo=coursera)](https://bit.ly/3XBHlIK) |
 
+</div>
+
 ---
 
-## ⚡ Fun Facts & Extras
+## ⚡ Fun Facts
 
 ```yaml
 🎯 Current Goal   : Land a Full Stack / Backend Internship
+🤖 Flagship Build : KGCAS GPT — RAG AI Campus Assistant
 🏆 Hackathons     : Multiple participations — won & learned!
-🌐 Languages      : Tamil (Native) | English (B1 Intermediate)
+🌐 Languages      : Tamil (Native) | English (Intermediate)
 🎓 College        : KG College of Arts & Science, Coimbatore
 📅 Graduating     : May 2027
 💡 Superpower     : Building full-stack apps from scratch in hours
-🔥 Fun Fact       : I build microservices systems as a fresher!
+🔥 Fun Fact       : I built a production-grade RAG system as a fresher!
 ```
 
 ---
 
-<!-- Snake animation -->
-<div align="center">
+## 🐾 Pac-Man eats my contributions!
 
-### 🐍 Watch my contributions get eaten!
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BalaMurugan-2005/BalaMurugan-2005/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BalaMurugan-2005/BalaMurugan-2005/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BalaMurugan-2005/BalaMurugan-2005/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/BalaMurugan-2005/BalaMurugan-2005/output/pacman-contribution-graph.svg">
 </picture>
+
+</div>
 
 ---
 
@@ -238,5 +256,7 @@ me.say_hi()
 <br/>
 
 ⭐ *If you like my work, consider giving my repos a star!* ⭐
+
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="35px" />
 
 </div>
