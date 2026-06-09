@@ -100,54 +100,48 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
-
+🚀 Featured Projects
 <div align="center">
-
-| 🏷️ Project | 🔧 Tech Stack | 🔗 Link |
-|---|---|---|
-| 📊 **Student Grade Management System** | HTML · CSS · JS · Node.js · Express.js | [![GitHub](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/BalaMurugan-2005/SGA) |
-| 💳 **PyUPI – Digital Payment App** | Django · REST Framework · JWT · JS | [![GitHub](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/BalaMurugan-2005/PyUPI) |
-| 🏪 **POS Billing System (Microservices)** | React.js · Spring Boot · Django · PostgreSQL · TailwindCSS | `🔒 Private` |
-| 🤖 **Product Price Prediction AI** | Python · Machine Learning · XGBoost | [![GitHub](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/BalaMurugan-2005/Price_Pridiction) |
-
+🏷️ Project🔧 Tech Stack🔗 Link🤖 KGCAS GPT — RAG AI Campus AssistantReact · FastAPI · Ollama/Qwen3 · SQLite · BAAI Embeddings🔒 Private💳 PyUPI – Digital Payment AppDjango · REST Framework · JWT · JSShow Image📊 Student Grade Management SystemHTML · CSS · JS · Node.js · Express.jsShow Image🏪 POS Billing System (Microservices)React · Spring Boot · Django · PostgreSQL · Tailwind🔒 Private🤖 Product Price Prediction AIPython · XGBoost · MLShow Image
 </div>
+<details>
+<summary><b>🤖 KGCAS GPT — RAG AI Campus Assistant</b></summary>
+<br>
 
-### 🔬 Project Highlights
+A locally-private RAG-based AI campus assistant built for KG College
 
+
+✅ Custom SQLite vector store with NumPy caching
+✅ QueryPreprocessor — typo correction, abbreviation expansion, multi-query decomposition
+✅ SSE streaming with /no_think directive for low-latency responses
+✅ Feedback & self-correction loop
+✅ Stack: React + FastAPI + Ollama/Qwen3 + BAAI Embeddings
+
+</details>
 <details>
 <summary><b>💳 PyUPI – Digital Payment Application</b></summary>
 <br>
 
-> A UPI-like payment system built with Django & REST APIs
-- ✅ Secure JWT-based user authentication
-- ✅ Send & receive digital payments
-- ✅ Admin APIs for monitoring transactions
-- ✅ Django REST Framework for all endpoints
+A UPI-like payment system built with Django & REST APIs
+
+
+✅ Secure JWT-based user authentication
+✅ Send & receive digital payments
+✅ Admin APIs for monitoring transactions
+✅ Django REST Framework for all endpoints
 
 </details>
-
 <details>
-<summary><b>🏪 POS Billing System (Full Stack Microservices)</b></summary>
+<summary><b>🏪 POS Billing System (Microservices)</b></summary>
 <br>
 
-> Enterprise-grade Point of Sale system with microservices architecture
-- ✅ React.js frontend for billing & product management
-- ✅ Spring Boot REST APIs with JWT security
-- ✅ Django backend for analytics & reporting
-- ✅ PostgreSQL for persistent data storage
+Enterprise-grade Point of Sale system with microservices architecture
 
-</details>
 
-<details>
-<summary><b>🤖 Product Price Prediction AI Model</b></summary>
-<br>
-
-> Machine learning model to predict product market prices
-- ✅ Trained on real historical market datasets
-- ✅ XGBoost algorithm for high accuracy
-- ✅ Hyperparameter tuning & model evaluation
-- ✅ AI-generated output comparison for performance
+✅ React.js frontend for billing & product management
+✅ Spring Boot REST APIs with JWT security
+✅ Django backend for analytics & reporting
+✅ PostgreSQL for persistent data storage
 
 </details>
 
