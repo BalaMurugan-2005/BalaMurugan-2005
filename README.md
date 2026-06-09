@@ -4,11 +4,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bala%20Murugan%20P&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" />
-</a>
-<br/>
-
+🚀 Full Stack Developer
+🤖 Machine Learning & AI Builder
+🏗️ Microservices & REST API Architect
+💡 Hackathon Warrior & Open Source Lover
+🧠 Learning Today, Innovating Tomorrow
+⚡ Turning Ideas Into Scalable Solutions
+💡 Turning Coffee Into Clean Code
+🔥 Code. Build. Learn. Repeat.
 <!-- Profile Views & Social Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=BalaMurugan-2005&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
