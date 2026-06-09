@@ -99,354 +99,149 @@ me.say_hi()
 </div>
 
 ---
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Featured Projects — Bala Murugan P</title>
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css" />
+🚀 Featured Projects
 <style>
-  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-  :root {
-    --bg: #0d1117;
-    --bg-card: #161b22;
-    --bg-card-hover: #1c2230;
-    --border: rgba(255,255,255,0.08);
-    --border-hover: rgba(255,255,255,0.16);
-    --text-primary: #e6edf3;
-    --text-secondary: #8b949e;
-    --text-tertiary: #484f58;
-    --radius-card: 14px;
-    --radius-tag: 20px;
-    --radius-icon: 10px;
-    --purple-bg: rgba(127,119,221,0.15);
-    --purple-color: #a49cf4;
-    --purple-tag-bg: rgba(127,119,221,0.1);
-    --purple-tag-border: rgba(127,119,221,0.3);
-    --blue-bg: rgba(55,138,221,0.15);
-    --blue-color: #79b8f8;
-    --blue-tag-bg: rgba(55,138,221,0.1);
-    --blue-tag-border: rgba(55,138,221,0.3);
-    --teal-bg: rgba(29,158,117,0.15);
-    --teal-color: #56d4aa;
-    --teal-tag-bg: rgba(29,158,117,0.1);
-    --teal-tag-border: rgba(29,158,117,0.3);
-    --amber-bg: rgba(186,117,23,0.15);
-    --amber-color: #f0c070;
-    --amber-tag-bg: rgba(186,117,23,0.1);
-    --amber-tag-border: rgba(186,117,23,0.3);
-    --coral-bg: rgba(216,90,48,0.15);
-    --coral-color: #f0997b;
-    --coral-tag-bg: rgba(216,90,48,0.1);
-    --coral-tag-border: rgba(216,90,48,0.3);
-    --green-bg: rgba(63,185,80,0.15);
-    --green-color: #56d364;
-  }
-
-  body {
-    background: var(--bg);
-    font-family: 'Inter', system-ui, sans-serif;
-    color: var(--text-primary);
-    padding: 3rem 1.5rem;
-    min-height: 100vh;
-  }
-
-  .container {
-    max-width: 860px;
-    margin: 0 auto;
-  }
-
-  .section-eyebrow {
-    font-size: 11px;
-    font-weight: 600;
-    letter-spacing: .14em;
-    text-transform: uppercase;
-    color: var(--text-tertiary);
-    margin-bottom: .5rem;
-  }
-
-  .section-title {
-    font-size: 22px;
-    font-weight: 600;
-    color: var(--text-primary);
-    margin-bottom: 1.75rem;
-    line-height: 1.2;
-  }
-
-  .section-title span {
-    color: var(--purple-color);
-  }
-
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 14px;
-  }
-
-  .card {
-    background: var(--bg-card);
-    border: 0.5px solid var(--border);
-    border-radius: var(--radius-card);
-    padding: 1.25rem 1.375rem;
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
-    transition: border-color .2s, background .2s;
-    text-decoration: none;
-    color: inherit;
-  }
-
-  .card:hover {
-    border-color: var(--border-hover);
-    background: var(--bg-card-hover);
-  }
-
-  .card.solo {
-    grid-column: 1 / 2;
-  }
-
-  .card-head {
-    display: flex;
-    align-items: flex-start;
-    gap: 12px;
-  }
-
-  .icon-wrap {
-    width: 44px;
-    height: 44px;
-    border-radius: var(--radius-icon);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-shrink: 0;
-    font-size: 20px;
-  }
-
-  .ic-purple { background: var(--purple-bg); color: var(--purple-color); }
-  .ic-blue   { background: var(--blue-bg);   color: var(--blue-color); }
-  .ic-teal   { background: var(--teal-bg);   color: var(--teal-color); }
-  .ic-amber  { background: var(--amber-bg);  color: var(--amber-color); }
-  .ic-coral  { background: var(--coral-bg);  color: var(--coral-color); }
-
-  .card-title {
-    font-size: 15px;
-    font-weight: 600;
-    color: var(--text-primary);
-    line-height: 1.25;
-  }
-
-  .card-sub {
-    font-size: 12px;
-    color: var(--text-tertiary);
-    margin-top: 3px;
-  }
-
-  .card-desc {
-    font-size: 13px;
-    color: var(--text-secondary);
-    line-height: 1.7;
-    flex: 1;
-  }
-
-  .tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 5px;
-  }
-
-  .tag {
-    font-size: 11px;
-    font-weight: 500;
-    padding: 3px 9px;
-    border-radius: var(--radius-tag);
-    border: 0.5px solid;
-  }
-
-  .t-purple { background: var(--purple-tag-bg); color: var(--purple-color); border-color: var(--purple-tag-border); }
-  .t-blue   { background: var(--blue-tag-bg);   color: var(--blue-color);   border-color: var(--blue-tag-border); }
-  .t-teal   { background: var(--teal-tag-bg);   color: var(--teal-color);   border-color: var(--teal-tag-border); }
-  .t-amber  { background: var(--amber-tag-bg);  color: var(--amber-color);  border-color: var(--amber-tag-border); }
-  .t-coral  { background: var(--coral-tag-bg);  color: var(--coral-color);  border-color: var(--coral-tag-border); }
-
-  .card-foot {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding-top: 10px;
-    border-top: 0.5px solid var(--border);
-  }
-
-  .badge {
-    display: inline-flex;
-    align-items: center;
-    gap: 5px;
-    font-size: 11px;
-    font-weight: 500;
-    padding: 3px 10px;
-    border-radius: var(--radius-tag);
-    border: 0.5px solid;
-  }
-
-  .b-private {
-    background: rgba(255,255,255,0.04);
-    color: var(--text-tertiary);
-    border-color: var(--border);
-  }
-
-  .b-public {
-    background: var(--teal-tag-bg);
-    color: var(--teal-color);
-    border-color: var(--teal-tag-border);
-  }
-
-  .view-link {
-    display: inline-flex;
-    align-items: center;
-    gap: 4px;
-    font-size: 12px;
-    font-weight: 500;
-    color: var(--blue-color);
-    text-decoration: none;
-    transition: opacity .15s;
-  }
-
-  .view-link:hover { opacity: .75; }
-
-  .meta {
-    font-size: 11px;
-    color: var(--text-tertiary);
-  }
-
-  @media (max-width: 600px) {
-    .grid { grid-template-columns: 1fr; }
-    .card.solo { grid-column: 1 / -1; }
-  }
+.proj-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;padding:1.5rem 0}
+.proj-card{background:var(--color-background-primary);border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);padding:1.25rem;display:flex;flex-direction:column;gap:10px;transition:border-color .18s}
+.proj-card:hover{border-color:var(--color-border-secondary)}
+.proj-card.full{grid-column:1/-1}
+.card-head{display:flex;align-items:flex-start;gap:12px}
+.ic{width:42px;height:42px;border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0;font-size:19px}
+.ic-purple{background:#EEEDFE;color:#534AB7}
+.ic-blue{background:#E6F1FB;color:#185FA5}
+.ic-teal{background:#E1F5EE;color:#0F6E56}
+.ic-amber{background:#FAEEDA;color:#854F0B}
+.ic-coral{background:#FAECE7;color:#993C1D}
+.card-title{font-size:14px;font-weight:500;color:var(--color-text-primary);margin:0}
+.card-sub{font-size:12px;color:var(--color-text-tertiary);margin:2px 0 0}
+.card-desc{font-size:13px;color:var(--color-text-secondary);line-height:1.65;flex:1}
+.tags{display:flex;flex-wrap:wrap;gap:5px}
+.tag{font-size:11px;font-weight:500;padding:2px 9px;border-radius:20px;border:0.5px solid}
+.t-purple{background:#EEEDFE;color:#534AB7;border-color:#AFA9EC}
+.t-blue{background:#E6F1FB;color:#185FA5;border-color:#85B7EB}
+.t-teal{background:#E1F5EE;color:#0F6E56;border-color:#5DCAA5}
+.t-amber{background:#FAEEDA;color:#854F0B;border-color:#EF9F27}
+.t-coral{background:#FAECE7;color:#993C1D;border-color:#F0997B}
+.card-foot{display:flex;align-items:center;justify-content:space-between;padding-top:10px;border-top:0.5px solid var(--color-border-tertiary)}
+.badge{display:inline-flex;align-items:center;gap:5px;font-size:11px;padding:3px 9px;border-radius:20px;border:0.5px solid}
+.b-private{background:#f6f8fa;color:#656d76;border-color:#d0d7de}
+.b-public{background:#E1F5EE;color:#0F6E56;border-color:#5DCAA5}
+.view-a{display:inline-flex;align-items:center;gap:4px;font-size:12px;font-weight:500;color:#185FA5;text-decoration:none}
+.meta{font-size:11px;color:#656d76}
+@media(max-width:600px){.proj-grid{grid-template-columns:1fr}}
 </style>
-</head>
-<body>
-<div class="container">
 
-  <p class="section-eyebrow">Portfolio</p>
-  <h2 class="section-title"><span>Featured</span> Projects</h2>
-
-  <div class="grid">
-
-    <div class="card">
-      <div class="card-head">
-        <div class="icon-wrap ic-purple"><i class="ti ti-robot" aria-hidden="true"></i></div>
-        <div>
-          <div class="card-title">KGCAS GPT</div>
-          <div class="card-sub">RAG AI Campus Assistant</div>
-        </div>
-      </div>
-      <p class="card-desc">Locally-private RAG-based AI campus assistant with custom SQLite vector store, typo correction, multi-query decomposition, and SSE streaming responses.</p>
-      <div class="tags">
-        <span class="tag t-purple">React</span>
-        <span class="tag t-purple">FastAPI</span>
-        <span class="tag t-purple">Ollama/Qwen3</span>
-        <span class="tag t-purple">SQLite</span>
-        <span class="tag t-purple">BAAI Embeddings</span>
-      </div>
-      <div class="card-foot">
-        <span class="badge b-private"><i class="ti ti-lock" style="font-size:11px"></i>Private</span>
-        <span class="meta">KG College</span>
+<div class="proj-grid">
+  <!-- Card 1: KGCAS GPT -->
+  <div class="proj-card">
+    <div class="card-head">
+      <div class="ic ic-purple">🤖</div>
+      <div>
+        <p class="card-title">KGCAS GPT</p>
+        <p class="card-sub">RAG AI campus assistant</p>
       </div>
     </div>
+    <p class="card-desc">Locally-private RAG-based AI campus assistant with custom SQLite vector store, typo correction, multi-query decomposition, and SSE streaming responses.</p>
+    <div class="tags">
+      <span class="tag t-purple">React</span>
+      <span class="tag t-purple">FastAPI</span>
+      <span class="tag t-purple">Ollama/Qwen3</span>
+      <span class="tag t-purple">SQLite</span>
+      <span class="tag t-purple">BAAI Embeddings</span>
+    </div>
+    <div class="card-foot">
+      <span class="badge b-private">🔒 Private</span>
+      <span class="meta">KG College</span>
+    </div>
+  </div>
 
-    <div class="card">
-      <div class="card-head">
-        <div class="icon-wrap ic-blue"><i class="ti ti-credit-card" aria-hidden="true"></i></div>
-        <div>
-          <div class="card-title">PyUPI</div>
-          <div class="card-sub">Digital Payment Application</div>
-        </div>
-      </div>
-      <p class="card-desc">UPI-style payment system with secure JWT authentication, send &amp; receive payments, and admin transaction monitoring via Django REST APIs.</p>
-      <div class="tags">
-        <span class="tag t-blue">Django</span>
-        <span class="tag t-blue">REST Framework</span>
-        <span class="tag t-blue">JWT</span>
-        <span class="tag t-blue">JavaScript</span>
-      </div>
-      <div class="card-foot">
-        <span class="badge b-public"><i class="ti ti-world" style="font-size:11px"></i>Public</span>
-        <a class="view-link" href="https://github.com/BalaMurugan-2005" target="_blank">View repo <i class="ti ti-external-link" style="font-size:12px"></i></a>
+  <!-- Card 2: PyUPI -->
+  <div class="proj-card">
+    <div class="card-head">
+      <div class="ic ic-blue">💳</div>
+      <div>
+        <p class="card-title">PyUPI</p>
+        <p class="card-sub">Digital payment application</p>
       </div>
     </div>
+    <p class="card-desc">UPI-style payment system with secure JWT authentication, send &amp; receive payments, and admin transaction monitoring via Django REST APIs.</p>
+    <div class="tags">
+      <span class="tag t-blue">Django</span>
+      <span class="tag t-blue">REST Framework</span>
+      <span class="tag t-blue">JWT</span>
+      <span class="tag t-blue">JavaScript</span>
+    </div>
+    <div class="card-foot">
+      <span class="badge b-public">🌐 Public</span>
+      <a class="view-a" href="https://github.com/BalaMurugan-2005" target="_blank">View repo ↗</a>
+    </div>
+  </div>
 
-    <div class="card">
-      <div class="card-head">
-        <div class="icon-wrap ic-teal"><i class="ti ti-school" aria-hidden="true"></i></div>
-        <div>
-          <div class="card-title">Student Grade Management</div>
-          <div class="card-sub">Academic Records System</div>
-        </div>
-      </div>
-      <p class="card-desc">Full-stack grade management with role-based access for students, staff, and admins, built on Node.js and Express with a clean JS frontend.</p>
-      <div class="tags">
-        <span class="tag t-teal">HTML / CSS / JS</span>
-        <span class="tag t-teal">Node.js</span>
-        <span class="tag t-teal">Express.js</span>
-      </div>
-      <div class="card-foot">
-        <span class="badge b-public"><i class="ti ti-world" style="font-size:11px"></i>Public</span>
-        <a class="view-link" href="https://github.com/BalaMurugan-2005" target="_blank">View repo <i class="ti ti-external-link" style="font-size:12px"></i></a>
+  <!-- Card 3: Grade Management -->
+  <div class="proj-card">
+    <div class="card-head">
+      <div class="ic ic-teal">🎓</div>
+      <div>
+        <p class="card-title">Student Grade Management</p>
+        <p class="card-sub">Academic records system</p>
       </div>
     </div>
+    <p class="card-desc">Full-stack grade management with role-based access for students, staff, and admins, built on Node.js and Express with a clean JS frontend.</p>
+    <div class="tags">
+      <span class="tag t-teal">HTML/CSS/JS</span>
+      <span class="tag t-teal">Node.js</span>
+      <span class="tag t-teal">Express.js</span>
+    </div>
+    <div class="card-foot">
+      <span class="badge b-public">🌐 Public</span>
+      <a class="view-a" href="https://github.com/BalaMurugan-2005" target="_blank">View repo ↗</a>
+    </div>
+  </div>
 
-    <div class="card">
-      <div class="card-head">
-        <div class="icon-wrap ic-amber"><i class="ti ti-building-store" aria-hidden="true"></i></div>
-        <div>
-          <div class="card-title">POS Billing System</div>
-          <div class="card-sub">Microservices Architecture</div>
-        </div>
-      </div>
-      <p class="card-desc">Enterprise-grade point of sale with React frontend, Spring Boot REST APIs, Django analytics backend, and PostgreSQL for persistent storage.</p>
-      <div class="tags">
-        <span class="tag t-amber">React</span>
-        <span class="tag t-amber">Spring Boot</span>
-        <span class="tag t-amber">Django</span>
-        <span class="tag t-amber">PostgreSQL</span>
-        <span class="tag t-amber">Tailwind</span>
-      </div>
-      <div class="card-foot">
-        <span class="badge b-private"><i class="ti ti-lock" style="font-size:11px"></i>Private</span>
-        <span class="meta">Enterprise</span>
+  <!-- Card 4: POS Billing -->
+  <div class="proj-card">
+    <div class="card-head">
+      <div class="ic ic-amber">🏪</div>
+      <div>
+        <p class="card-title">POS Billing System</p>
+        <p class="card-sub">Microservices architecture</p>
       </div>
     </div>
+    <p class="card-desc">Enterprise-grade point of sale with React frontend, Spring Boot REST APIs, Django analytics backend, and PostgreSQL for persistent storage.</p>
+    <div class="tags">
+      <span class="tag t-amber">React</span>
+      <span class="tag t-amber">Spring Boot</span>
+      <span class="tag t-amber">Django</span>
+      <span class="tag t-amber">PostgreSQL</span>
+      <span class="tag t-amber">Tailwind</span>
+    </div>
+    <div class="card-foot">
+      <span class="badge b-private">🔒 Private</span>
+      <span class="meta">Enterprise</span>
+    </div>
+  </div>
 
-    <div class="card solo">
-      <div class="card-head">
-        <div class="icon-wrap ic-coral"><i class="ti ti-chart-line" aria-hidden="true"></i></div>
-        <div>
-          <div class="card-title">Product Price Prediction AI</div>
-          <div class="card-sub">Machine Learning Model</div>
-        </div>
-      </div>
-      <p class="card-desc">ML-powered price prediction using XGBoost, trained on product features to forecast pricing with high accuracy.</p>
-      <div class="tags">
-        <span class="tag t-coral">Python</span>
-        <span class="tag t-coral">XGBoost</span>
-        <span class="tag t-coral">ML</span>
-      </div>
-      <div class="card-foot">
-        <span class="badge b-public"><i class="ti ti-world" style="font-size:11px"></i>Public</span>
-        <a class="view-link" href="https://github.com/BalaMurugan-2005" target="_blank">View repo <i class="ti ti-external-link" style="font-size:12px"></i></a>
+  <!-- Card 5: Price Prediction — full width -->
+  <div class="proj-card full">
+    <div class="card-head">
+      <div class="ic ic-coral">📈</div>
+      <div>
+        <p class="card-title">Product Price Prediction AI</p>
+        <p class="card-sub">Machine learning model</p>
       </div>
     </div>
-
+    <p class="card-desc">ML-powered price prediction using XGBoost, trained on product features to forecast pricing with high accuracy.</p>
+    <div class="tags">
+      <span class="tag t-coral">Python</span>
+      <span class="tag t-coral">XGBoost</span>
+      <span class="tag t-coral">ML</span>
+    </div>
+    <div class="card-foot">
+      <span class="badge b-public">🌐 Public</span>
+      <a class="view-a" href="https://github.com/BalaMurugan-2005" target="_blank">View repo ↗</a>
+    </div>
   </div>
 </div>
-</body>
-</html>
-
 
 ---
 
