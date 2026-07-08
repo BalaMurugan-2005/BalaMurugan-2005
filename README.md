@@ -8,7 +8,7 @@
 <!-- Profile Views & Social Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=BalaMurugan-2005&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/balamurugan-p-71a566320/">
+  <a href="https://www.linkedin.com/in/bala-murugan-p-71a566320/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/BalaMurugan-2005">
