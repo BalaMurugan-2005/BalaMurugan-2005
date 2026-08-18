@@ -164,7 +164,7 @@ me.say_hi()
         <img src="https://img.shields.io/badge/XGBoost-orange?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       </p>
-      <p><img src="https://img.shields.io/badge/🌐_Public-2ea44f?style=flat-square"/> &nbsp; <a href="https://github.com/BalaMurugan-2005">View repo →</a></p>
+      <p><img src="https://img.shields.io/badge/🌐_Public-2ea44f?style=flat-square"/> &nbsp; <a href="https://github.com/BalaMurugan-2005/Price_Pridiction.git">View repo →</a></p>
     </td>
   </tr>
 </table>
