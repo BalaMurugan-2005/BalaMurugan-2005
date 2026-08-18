@@ -126,7 +126,7 @@ me.say_hi()
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
-      <p><img src="https://img.shields.io/badge/🌐_Public-2ea44f?style=flat-square"/> &nbsp; <a href="https://github.com/BalaMurugan-2005">View repo →</a></p>
+      <p><img src="https://img.shields.io/badge/🌐_Public-2ea44f?style=flat-square"/> &nbsp; <a href="https://github.com/BalaMurugan-2005/PyUPI.git">View repo →</a></p>
     </td>
   </tr>
   <tr>
