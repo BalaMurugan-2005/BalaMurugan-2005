@@ -105,7 +105,7 @@ me.say_hi()
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 KGCAS GPT</h3>
+      <h3>🤖 College GPT</h3>
       <p><em>RAG AI Campus Assistant</em></p>
       <p>Locally-private RAG-based AI campus assistant with custom SQLite vector store, typo correction, multi-query decomposition, and SSE streaming responses.</p>
       <p>
@@ -114,7 +114,7 @@ me.say_hi()
         <img src="https://img.shields.io/badge/Ollama-black?style=flat-square&logo=ollama&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
       </p>
-      <p><img src="https://img.shields.io/badge/🔒_Private-grey?style=flat-square"/> &nbsp; <code>KG College</code></p>
+      <p><img src="https://img.shields.io/badge/🔒_Private-grey?style=flat-square"/> &nbsp; <code>College</code></p>
     </td>
     <td width="50%">
       <h3>💳 PyUPI</h3>
